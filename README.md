@@ -1,4 +1,4 @@
-# Curso Html
+# Html e CSS
 
 ## Estrutura base de um arquivo HTML
 
