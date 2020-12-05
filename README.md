@@ -2,7 +2,7 @@
 
 ## Estrutura base de um arquivo HTML
 
-```python
+```html
 <!DOCTYPE html>
 <html lang="PT-BR">
     <head>
@@ -19,3 +19,21 @@
     </body>
 </html>
 ```
+
+## Formatando fontes
+
+```html
+      <style>
+            h1{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 40px;
+                font-style: normal;
+                font-variant: small-caps; /*usado para deixar o texto como se fosse Maiúsculas */
+                color: black; /*Pode ser cor ou valor Hexadecimal ex. #000000*/
+            }
+            p{
+                font-variant: small-caps;
+            }
+     </style>
+```
+
