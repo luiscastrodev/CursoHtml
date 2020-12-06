@@ -33,6 +33,10 @@
             }
             p{
                 font-variant: small-caps;
+                text-align: left;
+                text-decoration: line-through;/*Faz um risco no texto*/
+                text-indent: 20px; /*Margin inicial do parágrafo*/
+                text-transform: lowercase;
             }
      </style>
 ```
