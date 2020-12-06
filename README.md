@@ -41,3 +41,28 @@
      </style>
 ```
 
+## Propriedades display
+
+## Display block
+Ocupa 100% da area disponível e gerando quebra de linha, ficando sempre um embaixo do outro
+```html
+Display block
+
+    <p>
+    <h1><h2><h3><h4><h5><h6>
+    <div>
+    <ul>, <ol>,<li>
+    <footer>       
+```
+
+## Display inline
+Não gera quebra de linha, ficam todos na mesma linha, ocupando sempre a largura necessaria da TAG
+```html
+Display inline
+
+    <a>
+    <strong>,<b>
+    <em>, <i>
+    <span>
+    <img>       
+```
